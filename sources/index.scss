@@ -1,0 +1,10 @@
+$primary-color: #22A;
+$secondary-color: #A7F;
+
+#root {
+  color: $primary-color;
+}
+
+div {
+  background-color: $secondary-color;
+}
