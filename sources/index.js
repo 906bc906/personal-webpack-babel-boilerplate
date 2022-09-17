@@ -1,5 +1,5 @@
 import "./hello";
 import "./world";
 import "./index.scss";
-import "./error";
 import "./es11";
+import "./error";
